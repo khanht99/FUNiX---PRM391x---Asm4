@@ -1,3 +1,5 @@
+Quy mô dự án: dự án cá nhân.
+
 Lưu trữ các con vật yêu thích vào vùng nhớ để khi vào lại ứng dụng vẫn hiển thị được thông tin các con vật đã yêu thích trước đó.
 
 Cài đặt các icon ngộ nghĩnh cho số điện thoại và sẽ hiển thị lên màn hình khi có cuộc gọi đến.
