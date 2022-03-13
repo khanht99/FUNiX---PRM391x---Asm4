@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/khanh/AndroidStudioProjects/Android_Assignment3/app/src/main/res/drawable/ic_favorite_no.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/khanh/AndroidStudioProjects/Android_Assignment3/app/src/main/res/drawable/ic_favorite_yes.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/khanh/AndroidStudioProjects/Android_Assignment3/app/src/main/res/layout/actionbar.xml" value="0.25" />
+        <entry key="..\:/Users/khanh/AndroidStudioProjects/Android_Assignment3/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/khanh/AndroidStudioProjects/Android_Assignment3/app/src/main/res/layout/custom_dialog.xml" value="0.2" />
+        <entry key="..\:/Users/khanh/AndroidStudioProjects/Android_Assignment3/app/src/main/res/layout/screen01_fragment.xml" value="0.25" />
+        <entry key="..\:/Users/khanh/AndroidStudioProjects/Android_Assignment3/app/src/main/res/layout/screen02_fragment.xml" value="0.25" />
+        <entry key="..\:/Users/khanh/AndroidStudioProjects/Android_Assignment3/app/src/main/res/layout/screen02_item_animal.xml" value="0.25" />
+        <entry key="..\:/Users/khanh/AndroidStudioProjects/Android_Assignment3/app/src/main/res/layout/screen03_fragment.xml" value="0.12708333333333333" />
+        <entry key="..\:/Users/khanh/AndroidStudioProjects/Android_Assignment3/app/src/main/res/layout/screen03_item_animal.xml" value="0.25" />
+        <entry key="..\:/Users/khanh/AndroidStudioProjects/Android_Assignment3/app/src/main/res/layout/side_bar_menu.xml" value="0.25" />
+        <entry key="..\:/Users/khanh/AndroidStudioProjects/Android_Assignment3/app/src/main/res/layout/toast_layout.xml" value="0.11614583333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

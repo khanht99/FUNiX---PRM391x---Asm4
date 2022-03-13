@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Android_Assignment3</string>
+    <string name="seas">Seas</string>
+    <string name="mammals">Mammals</string>
+    <string name="birds">Birds</string>
+    <string name="animal">Animal</string>
+</resources>

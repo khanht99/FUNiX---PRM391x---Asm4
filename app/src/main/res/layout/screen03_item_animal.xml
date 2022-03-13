@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:id="@+id/screen03_iv_top"
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        android:src="@drawable/penguin"
+        android:scaleType="fitXY"/>
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="64dp"
+        android:padding="16dp"
+        android:gravity="center_vertical">
+
+        <TextView
+            android:id="@+id/screen03_tv_nameAnimal"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:text="Penguin"
+            android:textColor="@color/orange_700"
+            android:textSize="24sp"
+            android:textStyle="bold"
+            android:layout_weight="1"/>
+
+        <ImageView
+            android:layout_width="32dp"
+            android:layout_height="32dp"
+            android:src="@drawable/ic_phone"
+            android:id="@+id/screen003_ic_phone"
+            android:clickable="true"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/screen03_phoneNumber"
+            android:text="036"
+            android:textStyle="bold"
+            android:textColor="@color/green"
+            android:textSize="20sp"
+            android:layout_marginLeft="5dp"
+            android:visibility="gone"/>
+
+        <ImageView
+            android:id="@+id/screen03_ic_favorite"
+            android:layout_width="32dp"
+            android:layout_height="32dp"
+            android:src="@drawable/ic_favorite_no"
+            android:layout_weight="0.3"
+            android:clickable="true"/>
+    </TableRow>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1">
+
+        <TextView
+            android:id="@+id/screen03_tv_paragraph"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:textSize="18sp"
+            android:textColor="@color/black"
+            android:padding="16dp"/>
+    </ScrollView>
+
+</LinearLayout>
